@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/dotpath-ts)](https://www.npmjs.com/package/@philiprehberger/dotpath-ts)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Type-safe dot-notation access and mutation for nested objects.
+Type-safe dot-notation access and mutation for nested objects
 
 ## Installation
 
