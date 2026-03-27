@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-dotpath/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-dotpath/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/dotpath-ts)](https://www.npmjs.com/package/@philiprehberger/dotpath-ts)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-dotpath)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Type-safe dot-notation access and mutation for nested objects
 
